@@ -3,7 +3,7 @@ global.settings = {
     OWNER_NAME: '𝗤𝘂𝗶𝗲𝘁 𝗢𝗻𝗲', // desired name
     BOT_NAME: "KORD", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: 'kord_ai-674e10d5c6b4e05462f16233', //put your session id between ''
+    SESSION_ID: 'kord_ai-674f59ca35e1ea387f318ec7', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Private",
     TIME_ZONE: "Africa/Lagos",
